@@ -1,0 +1,16 @@
+{
+  "name": "web-crawler-http",
+  "version": "1.0.0",
+  "description": "Project to review http concepts",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
